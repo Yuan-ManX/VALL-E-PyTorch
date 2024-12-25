@@ -1,7 +1,7 @@
 # VALL-E PyTorch
 
 <p align="center">
-  <img src="VALL-E.png" alt="VALL-E" style="display:block; margin:auto; width:780px;" />
+  <img src="VALL-E.png" alt="VALL-E" style="display:block; margin:auto; width:750px;" />
 </p>
 
 PyTorch implementation of VALL-E.
